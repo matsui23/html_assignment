@@ -2,8 +2,54 @@ p {
     font-size: 18px;
 }
 
+div.education_header{
+    color: blue
+}
+
 div.education{
+    color: blue
+}
 
-    
+div.project_header_1{
+    color: blue
+}
 
+div.project_1{
+    color: blue
+}
+
+div.project_header_2{
+    color: blue
+}
+
+div.project_2{
+    color: blue
+}
+
+div.career_header{
+    color: blue
+}
+
+div.career_header_1{
+    color: blue
+}
+
+div.career_1{
+    color: blue
+}
+
+div.career_header_2{
+    color: blue
+}
+
+div.career_2{
+    color: blue
+}
+
+div.art_header{
+    color: blue
+}
+
+div.art_1{
+    color: blue
 }
