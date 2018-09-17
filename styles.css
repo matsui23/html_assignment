@@ -35,7 +35,9 @@ p {
 
 div.education_header{
     font-family: 'Franklin Gothic Medium';
-    border: #28292b;
+    border-bottom: 4px solid #28292b;
+    
+    
 }
 
 div.education{
