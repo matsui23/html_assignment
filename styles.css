@@ -33,6 +33,13 @@ p {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
+div.intro_header{
+    font-family: 'Franklin Gothic Medium';
+    border-bottom: 4px solid #28292b;
+    
+    
+}
+
 div.education_header{
     font-family: 'Franklin Gothic Medium';
     border-bottom: 4px solid #28292b;
