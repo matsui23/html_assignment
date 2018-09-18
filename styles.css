@@ -1,7 +1,7 @@
 
 
 body {
-    background-color: #e6e8d3;
+ background-color: #e6e8d3;
 }
 
 
@@ -13,7 +13,7 @@ div.img-container{
     max-height: 300px;
     float: center;
     width: 100%;
-    padding: 10px;
+    padding: 5px;
 }
 
 div.clearfix::after{
@@ -24,45 +24,58 @@ div.clearfix::after{
 }
 
 div.text_body {
+    
     color: #28292b;
-    text-align: center
+    text-align: center;
+    padding: 5px;
+    margin: 5px;
 }
 
 p {
+    white-space: nowrap;
     font-size: 22px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 div.intro_header{
+    
+    font-size: 200%;
     font-family: 'Franklin Gothic Medium';
     border-bottom: 4px solid #28292b;
+    padding: 5px;
+    margin: 5px;
+    text-align: center;
     
     
 }
 
 div.education_header{
-    font-family: 'Franklin Gothic Medium';
-    border-bottom: 4px solid #28292b;
     
+    font-family: 'Franklin Gothic Medium';
+    font-size: 150%;
+    text-align: center;
     
 }
 
 div.education{
     font-family: 'Franklin Gothic Medium';
-    
+    text-align: center;
 }
 
 div.project_header_1{
     font-family: 'Franklin Gothic Medium';
+    font-size: 150%;
 }
 
 div.project_1{
     font-family: 'Franklin Gothic Medium';
+    font-size: 150%;
 
 }
 
 div.project_header_2{
     font-family: 'Franklin Gothic Medium';
+    font-size: 150%;
 }
 
 div.project_2{
@@ -72,10 +85,12 @@ div.project_2{
 
 div.career_header{
     font-family: 'Franklin Gothic Medium';
+    font-size: 175%;
 }
 
 div.career_header_1{
     font-family: 'Franklin Gothic Medium';
+    font-size: 150%;
 }
 
 div.career_1{
@@ -85,6 +100,7 @@ div.career_1{
 
 div.career_header_2{
     font-family: 'Franklin Gothic Medium';
+    font-size: 150%;
 }
 
 div.career_2{
@@ -94,6 +110,7 @@ div.career_2{
 
 div.art_header{
     font-family: 'Franklin Gothic Medium';
+    font-size: 150%;
 }
 
 div.art_1{
